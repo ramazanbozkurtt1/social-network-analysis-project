@@ -1,6 +1,8 @@
-This project was created by Ramazan Bozkurt (me) and my schoolmate Abdulkadir Sozgen.
+# SOCIAL NETWORK AND SOCIAL NETWORK ANALYSIS 
 
-This project is prepared for Social Network Analysis course, the subject of project is “WHO IS THE MOST PROMINENT PLAYER AMONG THE PLAYERS OF THE TURKISH NATIONAL FOOTBALL TEAM WHO PLAYED IN THE LAST 5 WORLD CUP(2006-2022) TOURNAMENTS?”.
+This project was created by *Ramazan Bozkurt* and my schoolmate *Abdulkadir Sozgen*.
+
+This project is prepared for *Social Network Analysis* course, the subject of project is **“WHO IS THE MOST PROMINENT PLAYER AMONG THE PLAYERS OF THE TURKISH NATIONAL FOOTBALL TEAM WHO PLAYED IN THE LAST 5 WORLD CUP(2006-2022) TOURNAMENTS?”**.
 
 The meaning of file names are;
 
